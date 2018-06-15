@@ -30,6 +30,7 @@ nav {
 
 .content {
  padding: 15px;
+ display: inline-block;
 }
 
  .arrow {
@@ -49,6 +50,6 @@ nav {
     font-size: 12px;
  }
 
-.content:hover, h1:hover, a:hover {
+.location:hover, h1:hover, a:hover {
     background-color: gray;
 }
